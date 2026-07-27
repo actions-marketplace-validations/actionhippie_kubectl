@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.15.2](https://github.com/actionhippie/kubectl/compare/v1.15.1...v1.15.2) (2026-07-27)
+
 ## [1.15.1](https://github.com/actionhippie/kubectl/compare/v1.15.0...v1.15.1) (2026-06-22)
 
 ### Dependencies
